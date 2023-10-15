@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Tiktok Scroll",
+    "version": "1.0",
+    "description": "Tiktok Scroll",
+    "permissions": [
+      "activeTab"
+    ],
+    "content_scripts": [
+    {
+        "matches": ["https://www.tiktok.com/*"],
+        "js": ["content.js"],
+        "persistent": true,
+        "content_security_policy": "script-src 'self' https://example.com; object-src 'self'"
+    }]
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiktokScroller_Listener", "TiktokScroller_Listener\TiktokScroller_Listener.csproj", "{8B31C667-8251-48D8-879D-B8F14CC16783}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B31C667-8251-48D8-879D-B8F14CC16783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B31C667-8251-48D8-879D-B8F14CC16783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B31C667-8251-48D8-879D-B8F14CC16783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B31C667-8251-48D8-879D-B8F14CC16783}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEFE88FF-6739-4965-9B16-BB36C61A0B6E}
+	EndGlobalSection
+EndGlobal
